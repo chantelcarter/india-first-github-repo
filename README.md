@@ -16,3 +16,4 @@
 
 ### Learn's Syllabus
 [Syllabus](https://github.com/learn-academy-2023-india/syllabus/tree/main)
+- This is the syllabus for LEARN Academy.
